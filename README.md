@@ -91,3 +91,7 @@ If you changed something like activating a Request Processor:
 [3]:    http://home.snafu.de/tilman/xenulink.html                   "Xenu's link sleuth"
 [4]:    http://peacockmedia.co.uk/integrity/                        "Integrity"
 [5]:    https://github.com/afranken/jmeter-maven-plugin-example     "JMeter Maven Plugin Example"
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/afranken/generic-jmeter-test/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
